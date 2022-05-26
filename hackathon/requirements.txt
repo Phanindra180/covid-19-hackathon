@@ -5,6 +5,6 @@
 # >>> nltk.download()
 # Then an installation window appears. Go to 'Models' tab and select 'puntk' under 'identifier' column. Then click Download.
 nltk==3.4.5
-tensorflow==1.14.0
+tensorflow==2.7.2
 tflearn==0.3.2
 flask>=1.1.0
